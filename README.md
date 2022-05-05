@@ -20,3 +20,6 @@ Chapter 3 code_Project_87 The second part 2 of "The Arduino World Book" code_Pro
 </p>
 
 # General structure
+![3](https://user-images.githubusercontent.com/35774039/166847660-e3c51810-e480-49ae-8e5e-e67826027f37.png)
+![2](https://user-images.githubusercontent.com/35774039/166847666-a503e72e-bd40-475e-997c-d5d8ac5aab79.jpg)
+
